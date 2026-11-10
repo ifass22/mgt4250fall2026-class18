@@ -8,4 +8,4 @@ These packaages need to be intalled with pip.
 - plotly
 
 Elon University is *located* in **Elon**.
-[LINK](elon.edu)
+[LINK](https://elon.edu)
